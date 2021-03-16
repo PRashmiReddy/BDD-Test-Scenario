@@ -1,0 +1,9 @@
+Given a Web E-commerce store
+
+When iphone mobiles are displayed
+
+And I press the add to cart button on any iphone mobile
+
+And I should be able to see cart has been updated with the item and able to remove if out of stock
+
+Then I should be able to click on continue to return to homepage
